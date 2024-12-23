@@ -16,11 +16,9 @@ See [INSTALL.md](./INSTALL.md)
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/moonbloom-theme/template/graphs/contributors).
 
-| [![Igor Teplostanski](https://github.com/teplostanski.png?size=100)](https://github.com/teplostanski) | [![poletsvetov](https://github.com/poletsvetov.png?size=100)](https://github.com/poletsvetov) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Igor Teplostanski](https://github.com/teplostanski)                                               | [poletsvetov](https://github.com/poletsvetov)                                               |
+<!--CONTRIBUTORS_TABLE-->CONTRIBUTORS TABLE<!--CONTRIBUTORS_TABLE-END-->
 
 <p align="center">
   <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/template?style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
