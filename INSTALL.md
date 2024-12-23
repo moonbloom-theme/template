@@ -4,7 +4,7 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-```sh
+```bash
 git clone https://github.com/moonbloom-theme/example.git
 ```
 
