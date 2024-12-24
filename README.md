@@ -32,12 +32,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
     <br /><sub><b>Игорь Теплостанский</b></sub>
     </a>
   </td>
-  <td align="center">
-    <a href="https://github.com/poletsvetov" title="..— ... . .—. ">
-      <img src="https://avatars.githubusercontent.com/u/169572469?v=4" width="42;" alt="..— ... . .—. "/>
-    <br /><sub><b>..— ... . .—. </b></sub>
-    </a>
-  </td>
 </tr></table><!--CONTRIBUTORS_TABLE-END-->
 
 </br>
