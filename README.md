@@ -39,6 +39,6 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 <!-- STEP 4: Update the repository name (template) in the links to match the current repository name -->
 
 <p align="center">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/template?style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
-  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/moonbloom-theme/template?include_prereleases&display_name=release&style=flat-square&labelColor=%231e1f27&color=%23E8C87E">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/moonbloom-theme/template?style=flat-square&labelColor=%231d1e27&color=%23E8C87E">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/moonbloom-theme/template?include_prereleases&display_name=release&style=flat-square&labelColor=%231d1e27&color=%23E8C87E">
 </p>
